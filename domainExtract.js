@@ -9,4 +9,3 @@ function domainName(url) {
 
     return url2.slice(0, url2.indexOf("."))
 }
-console.log(domainName("https://codewars.it"))
