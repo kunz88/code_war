@@ -1,2 +1,2 @@
 # code_war
-store in a repository all my code war exercise so far
+storing in a repository all my code war exercise done so far
